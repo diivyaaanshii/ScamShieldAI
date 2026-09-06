@@ -2,7 +2,6 @@
 import streamlit as st
 import ast
 import plotly.graph_objects as go
-
 from ai_analyzer import analyze_scam
 
 
