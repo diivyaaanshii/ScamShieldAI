@@ -1,4 +1,4 @@
-```python
+
 import os
 import json
 
@@ -110,4 +110,3 @@ Return the result according to the provided JSON schema.
         raise ValueError("AI returned an empty response.")
 
     return json.loads(result)
-```
